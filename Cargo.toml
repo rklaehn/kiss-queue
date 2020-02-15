@@ -1,0 +1,11 @@
+[package]
+name = "kiss-queue"
+version = "0.1.0"
+authors = ["Ruediger Klaehn <rklaehn@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+futures = "0.3.4"
+
+[dev-dependencies]
+async-std = "1.5.0"
